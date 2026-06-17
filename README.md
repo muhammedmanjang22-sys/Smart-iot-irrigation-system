@@ -20,3 +20,16 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 - Automate irrigation using a relay-controlled water pump.
 - Enable remote monitoring through IoT connectivity.
 - Improve water-use efficiency in agriculture.
+
+## Hardware Components
+
+| Component | Function |
+|------------|------------|
+| Arduino MKR WiFi 1010 | Main Controller |
+| Capacitive Soil Moisture Sensor | Measures soil moisture |
+| DHT11 Sensor | Measures temperature and humidity |
+| 5V Relay Module | Controls pump operation |
+| Water Pump | Supplies water to plants |
+| Breadboard | Circuit assembly |
+| 3.7V Battery | Power supply |
+| Jumper Wires | Electrical connections |
