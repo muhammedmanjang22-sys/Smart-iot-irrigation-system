@@ -63,3 +63,19 @@ Sensor data is collected from the environment and processed by the Arduino MKR W
 ### System Block Diagram
 
 (Block diagram will be added here)
+
+## Working Principle
+
+The Smart IoT-Based Irrigation System operates according to the following sequence:
+
+1. The capacitive soil moisture sensor measures the moisture content of the soil.
+2. The DHT11 sensor measures environmental temperature and humidity.
+3. Sensor data is transmitted to the Arduino MKR WiFi 1010.
+4. The controller compares the soil moisture value with a predefined threshold.
+5. If the soil is dry, the relay module activates the water pump.
+6. Water is supplied to the plant until the desired moisture level is achieved.
+7. Sensor readings and system status are transmitted to Arduino IoT Cloud for remote monitoring.
+
+### System Flowchart
+
+(Flowchart will be added here after project documentation is completed.)
