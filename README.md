@@ -131,3 +131,18 @@ Potential enhancements for future versions of the project include:
 - Cloud-based analytics
 - Multi-zone irrigation control
 - AI-assisted irrigation scheduling
+
+  ## Developer
+
+**Muhammed Manjang**
+
+Electrical and Electronics Engineering Student
+
+University of Applied Science, Engineering and Technology (USET)
+
+Interests:
+- Smart Agriculture
+- Internet of Things (IoT)
+- Embedded Systems
+- Renewable Energy
+- Engineering Innovation
