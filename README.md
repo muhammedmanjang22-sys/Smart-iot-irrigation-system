@@ -33,3 +33,12 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 | Breadboard | Circuit assembly |
 | 3.7V Battery | Power supply |
 | Jumper Wires | Electrical connections |
+
+## System Features
+
+- Automatic irrigation control
+- Real-time soil moisture monitoring
+- Temperature and humidity monitoring
+- Remote monitoring through Arduino IoT Cloud
+- Wireless communication using WiFi
+- Water conservation through intelligent irrigation
