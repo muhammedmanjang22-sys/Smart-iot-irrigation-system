@@ -120,3 +120,14 @@ The developed prototype was tested under different soil conditions to evaluate i
 - Testing and Validation
 - Technical Documentation
 - Project Development
+
+## Future Improvements
+
+Potential enhancements for future versions of the project include:
+
+- Solar-powered operation
+- Weather forecast integration
+- Mobile notifications
+- Cloud-based analytics
+- Multi-zone irrigation control
+- AI-assisted irrigation scheduling
