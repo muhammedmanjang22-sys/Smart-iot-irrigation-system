@@ -79,3 +79,24 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 ### System Flowchart
 
 (Flowchart will be added here after project documentation is completed.)
+
+## Results and Testing
+
+The developed prototype was tested under different soil conditions to evaluate its performance.
+
+### Test Results
+
+| Test Condition | Pump Status | Result |
+|---------------|------------|----------|
+| Dry Soil | ON | Successful |
+| Moist Soil | OFF | Successful |
+| Sensor Data Monitoring | Operational | Successful |
+| IoT Connectivity | Operational | Successful |
+
+### Project Demonstration
+
+(Project photographs will be added here.)
+
+### IoT Dashboard
+
+(Arduino IoT Cloud screenshots will be added here.)
