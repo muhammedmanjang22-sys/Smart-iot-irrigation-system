@@ -100,3 +100,23 @@ The developed prototype was tested under different soil conditions to evaluate i
 ### IoT Dashboard
 
 (Arduino IoT Cloud screenshots will be added here.)
+
+## Skills Demonstrated
+
+### Technical Skills
+
+- Arduino Programming
+- Embedded Systems Design
+- Internet of Things (IoT)
+- Sensor Integration
+- Wireless Communication
+- Circuit Design
+- Automation Systems
+
+### Engineering Skills
+
+- Problem Solving
+- System Design
+- Testing and Validation
+- Technical Documentation
+- Project Development
