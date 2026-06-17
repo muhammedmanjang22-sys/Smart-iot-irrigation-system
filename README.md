@@ -42,3 +42,24 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 - Remote monitoring through Arduino IoT Cloud
 - Wireless communication using WiFi
 - Water conservation through intelligent irrigation
+
+## System Architecture
+
+The system consists of three main layers:
+
+### 1. Sensing Layer
+- Capacitive Soil Moisture Sensor
+- DHT11 Temperature and Humidity Sensor
+
+### 2. Processing Layer
+- Arduino MKR WiFi 1010
+
+### 3. Actuation Layer
+- Relay Module
+- Water Pump
+
+Sensor data is collected from the environment and processed by the Arduino MKR WiFi 1010. Based on soil moisture conditions, the controller activates or deactivates the water pump through a relay module.
+
+### System Block Diagram
+
+(Block diagram will be added here)
