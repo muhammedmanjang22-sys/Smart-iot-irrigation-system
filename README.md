@@ -82,7 +82,7 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 
 ### System Flowchart
 
-(Flowchart will be added here after project documentation is completed.)
+![System Flowchart](images/flowchart.png)
 
 ## Results and Testing
 
