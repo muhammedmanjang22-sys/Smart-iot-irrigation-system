@@ -3,6 +3,9 @@ An IoT-based smart irrigation system using Arduino MKR WiFi 1010 for automated I
 ## Project Prototype
 ![Smart Irrigation Prototype](images/PROTOTYPE_IMAGE.jpeg)
 
+## System Block Diagram
+![System Block Diagram](images/block_diagram.png)
+
 ## Project Overview
 
 The Smart IoT-Based Irrigation System is an automated agricultural solution designed to improve irrigation efficiency through real-time soil moisture monitoring and intelligent water management.
