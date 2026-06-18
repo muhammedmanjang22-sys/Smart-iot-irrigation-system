@@ -3,8 +3,7 @@ An IoT-based smart irrigation system using Arduino MKR WiFi 1010 for automated I
 ## Project Prototype
 ![Smart Irrigation Prototype](images/PROTOTYPE_IMAGE.jpeg)
 
-## System Block Diagram
-![System Block Diagram](images/block_diagram.png)
+
 
 ## Project Overview
 
@@ -67,7 +66,7 @@ Sensor data is collected from the environment and processed by the Arduino MKR W
 
 ### System Block Diagram
 
-(Block diagram will be added here)
+![System Block Diagram](images/block_diagram.png)
 
 ## Working Principle
 
