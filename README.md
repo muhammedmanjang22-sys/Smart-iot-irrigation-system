@@ -20,7 +20,7 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 ### Specific Objectives
 
 - Monitor soil moisture levels in real time.
-- Measure temperature and humidity using the DHT11 sensor.
+- Measure temperature  using the DHT11 sensor.
 - Automate irrigation using a relay-controlled water pump.
 - Enable remote monitoring through IoT connectivity.
 - Improve water-use efficiency in agriculture.
@@ -83,6 +83,18 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 ### System Flowchart
 
 ![System Flowchart](images/flowchart.png)
+
+## Circuit Diagram
+
+![Circuit Diagram](images/circuit_diagram.png)
+
+*Figure: Circuit schematic developed using Cirkit Designer, illustrating the electrical connections used in the Smart IoT-Based Irrigation System.*
+
+### Full Circuit Design
+
+The complete circuit design with detailed connections can be viewed here:
+
+[View Full Circuit Design](PASTE_YOUR_CIRKIT_DESIGN_LINK_HERE)
 
 ## Results and Testing
 
