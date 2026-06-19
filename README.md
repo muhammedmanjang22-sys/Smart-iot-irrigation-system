@@ -143,6 +143,12 @@ By automating irrigation based on real-time soil moisture conditions, the system
 
 The project contributes to the adoption of smart agriculture practices and provides a foundation for future precision farming solutions.
 
+## Documentation
+
+The complete project report and technical documentation can be accessed below:
+
+[View Project Portfolio](docs/SMART_IoT_Portfolio.pdf)
+
 ## Skills Demonstrated
 
 ### Technical Skills
