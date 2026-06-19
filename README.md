@@ -147,7 +147,7 @@ The project contributes to the adoption of smart agriculture practices and provi
 
 The complete project report and technical documentation can be accessed below:
 
-[View Project Portfolio](docs/SMART_IoT_Portfolio.pdf)
+[View Project Portfolio](docs/SMART_IoT_portfolio.pdf)
 
 ## Skills Demonstrated
 
