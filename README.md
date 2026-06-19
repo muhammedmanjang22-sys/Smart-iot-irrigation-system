@@ -190,4 +190,11 @@ University of Applied Science, Engineering and Technology (USET)
 
 The Gambia
 
-GitHub: https://github.com/muhammedmanjang22-sys
+## Areas of Interest:
+-Smart Agriculture
+-Internet of Things (IoT)
+-Embedded Systems
+-Renewable Energy
+
+
+GitHub Profile: https://github.com/muhammedmanjang22-sys
