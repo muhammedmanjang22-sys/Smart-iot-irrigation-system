@@ -135,6 +135,14 @@ The developed prototype was tested under different soil conditions to evaluate i
 ### IoT Dashboard
 ![Arduino iot cloud dashboard](images/iot_dashboard.png)
 
+## Project Impact
+
+This project demonstrates how Internet of Things (IoT) technology can be applied to improve irrigation efficiency and reduce water wastage in agriculture.
+
+By automating irrigation based on real-time soil moisture conditions, the system minimizes unnecessary watering while ensuring that plants receive adequate moisture for healthy growth.
+
+The project contributes to the adoption of smart agriculture practices and provides a foundation for future precision farming solutions.
+
 ## Skills Demonstrated
 
 ### Technical Skills
