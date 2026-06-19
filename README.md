@@ -38,6 +38,25 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 | 3.7V Battery | Power supply |
 | Jumper Wires | Electrical connections |
 
+## Repository Structure
+
+```text
+Smart-iot-irrigation-system
+├── README.md
+├── code
+│   └── smart_irrigation.ino
+├── docs
+│   └── SMART_IoT_Portfolio.pdf
+└── images
+    ├── PROTOTYPE_IMAGE.jpeg
+    ├── block_diagram.png
+    ├── flowchart.png
+    ├── circuit_diagram.png
+    ├── project_demo_1.jpeg
+    ├── project_demo_2.jpeg
+    └── iot_dashboard.png
+```
+
 ## System Features
 
 - Automatic irrigation control
