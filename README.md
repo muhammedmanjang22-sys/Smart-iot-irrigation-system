@@ -31,7 +31,7 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 |------------|------------|
 | Arduino MKR WiFi 1010 | Main Controller |
 | Capacitive Soil Moisture Sensor | Measures soil moisture |
-| DHT11 Sensor | Measures temperature and humidity |
+| DHT11 Sensor | Measures temperature  |
 | 5V Relay Module | Controls pump operation |
 | Water Pump | Supplies water to plants |
 | Breadboard | Circuit assembly |
@@ -42,7 +42,7 @@ The main objective of this project is to develop an IoT-based smart irrigation s
 
 - Automatic irrigation control
 - Real-time soil moisture monitoring
-- Temperature and humidity monitoring
+- Temperature  monitoring
 - Remote monitoring through Arduino IoT Cloud
 - Wireless communication using WiFi
 - Water conservation through intelligent irrigation
@@ -53,7 +53,7 @@ The system consists of three main layers:
 
 ### 1. Sensing Layer
 - Capacitive Soil Moisture Sensor
-- DHT11 Temperature and Humidity Sensor
+- DHT11 Temperature  Sensor
 
 ### 2. Processing Layer
 - Arduino MKR WiFi 1010
@@ -94,7 +94,7 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 
 The complete circuit design with detailed connections can be viewed here:
 
-[[View Full Circuit Design](https://app.cirkitdesigner.com/project/d9048e39-4295-4901-937f-54926f16502a)]
+[[View Full Circuit Design](https://app.cirkitdesigner.com/project/d9048e39-4295-4901-937f-54926f16502a)
 
 ## Results and Testing
 
