@@ -86,7 +86,7 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.png.jpeg)
 
 *Figure: Circuit schematic developed using Cirkit Designer, illustrating the electrical connections used in the Smart IoT-Based Irrigation System.*
 
