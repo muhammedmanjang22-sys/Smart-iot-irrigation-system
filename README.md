@@ -102,8 +102,7 @@ The developed prototype was tested under different soil conditions to evaluate i
 (Project photographs will be added here.)
 
 ### IoT Dashboard
-
-(Arduino IoT Cloud screenshots will be added here.)
+![Arduino iot cloud dashboard](images/iot_dashboard.png)
 
 ## Skills Demonstrated
 
