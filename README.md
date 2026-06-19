@@ -98,8 +98,8 @@ The developed prototype was tested under different soil conditions to evaluate i
 | IoT Connectivity | Operational | Successful |
 
 ### Project Demonstration
-![project demonstration 1](images/project_demo_1.png)
-![project demonstration 2](images/project_demo_2.png)
+![project demonstration 1](images/project_demo_1.png.jpeg)
+![project demonstration 2](images/project_demo_2.png.jpeg)
 
 ### IoT Dashboard
 ![Arduino iot cloud dashboard](images/iot_dashboard.png)
