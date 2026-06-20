@@ -163,6 +163,12 @@ The complete project report and technical documentation can be accessed below:
 
 [View Project Portfolio](docs/SMART_IoT_portfolio.pdf)
 
+## Source Code
+
+The Arduino source code for this project is available in the repository:
+
+[View Arduino Source Code](code/smart_irrigation.ino)
+
 ## Skills Demonstrated
 
 ### Technical Skills
