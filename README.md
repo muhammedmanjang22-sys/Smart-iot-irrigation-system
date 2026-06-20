@@ -133,11 +133,11 @@ The developed prototype was tested under different soil conditions to evaluate i
 | Sensor Data Monitoring | Operational | Successful |
 | IoT Connectivity | Operational | Successful |
 
-### Project Demonstration
+## Project Demonstration
 ![project demonstration 1](images/project_demo_1.png)
 ![project demonstration 2](images/project_demo_2.png)
 
-### IoT Dashboard
+## IoT Dashboard
 ![Arduino iot cloud dashboard](images/iot_dashboard.png)
 
 ## Project Impact
@@ -196,7 +196,7 @@ Potential enhancements for future versions of the project include:
 
  ## Developer
 
-Muhammed Manjang
+**Muhammed Manjang**
 
 Electrical and Electronics Engineering Student
 
@@ -204,12 +204,12 @@ University of Applied Science, Engineering and Technology (USET)
 
 The Gambia
 
-## Areas of Interest:
+## Areas of Interest
 
--Smart Agriculture
--Internet of Things (IoT)
--Embedded Systems
--Renewable Energy
+- Smart Agriculture
+- Internet of Things (IoT)
+- Embedded Systems
+- Renewable Energy
 
 
 GitHub Profile: https://github.com/muhammedmanjang22-sys
