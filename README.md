@@ -1,4 +1,9 @@
 # Smart-iot-irrigation-system
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Arduino](https://img.shields.io/badge/Arduino-MKR%20WiFi%201010-blue)
+![IoT](https://img.shields.io/badge/Technology-IoT-orange)
+
 An IoT-based smart irrigation system using Arduino MKR WiFi 1010 for automated Irrigation and remote monitoring
 ## Project Prototype
 ![Smart Irrigation Prototype](images/PROTOTYPE_IMAGE.jpeg)
@@ -92,7 +97,7 @@ Sensor data is collected from the environment and processed by the Arduino MKR W
 The Smart IoT-Based Irrigation System operates according to the following sequence:
 
 1. The capacitive soil moisture sensor measures the moisture content of the soil.
-2. The DHT11 sensor measures environmental temperature and humidity.
+2. The DHT11 sensor measures environmental temperature .
 3. Sensor data is transmitted to the Arduino MKR WiFi 1010.
 4. The controller compares the soil moisture value with a predefined threshold.
 5. If the soil is dry, the relay module activates the water pump.
@@ -113,7 +118,7 @@ The Smart IoT-Based Irrigation System operates according to the following sequen
 
 The complete circuit design with detailed connections can be viewed here:
 
-[[View Full Circuit Design](https://app.cirkitdesigner.com/project/d9048e39-4295-4901-937f-54926f16502a)
+[View Full Circuit Design](https://app.cirkitdesigner.com/project/d9048e39-4295-4901-937f-54926f16502a)
 
 ## Results and Testing
 
@@ -143,6 +148,15 @@ By automating irrigation based on real-time soil moisture conditions, the system
 
 The project contributes to the adoption of smart agriculture practices and provides a foundation for future precision farming solutions.
 
+## Technologies Used
+
+- Arduino MKR WiFi 1010
+- Arduino IoT Cloud
+- C/C++ Programming
+- Cirkit Designer
+- Capacitive Soil Moisture Sensor
+- DHT11 Temperature Sensor
+- WiFi Communication
 ## Documentation
 
 The complete project report and technical documentation can be accessed below:
@@ -191,6 +205,7 @@ University of Applied Science, Engineering and Technology (USET)
 The Gambia
 
 ## Areas of Interest:
+
 -Smart Agriculture
 -Internet of Things (IoT)
 -Embedded Systems
